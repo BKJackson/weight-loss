@@ -9,7 +9,7 @@ Discovering ketosis: _how to effectively lose weight_
 The chart was generated from the data file [`weight.2015.csv`](weight.2015.csv) by the script [`date-weight.r`](date-weight.r) in this git repository.  It requires [`R`](http://r-project.org) and [`ggplot2`](http://ggplot2.org/).
 
 
-In the following I'll describe the thought process, some other people ideas,  and the software I used to lead me in the right direction.
+In the following I'll describe the thought process, some other people ideas,  and the software I used to lead me in the right direction. 
 
 #### Disclaimer:
 
